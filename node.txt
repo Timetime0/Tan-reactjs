@@ -1,0 +1,12 @@
+1.  cài đặt project 
+npx create-react-app ten-app
+
+2. chạy
+npm start
+
+3. flow chạy của react
+ index.html (chú ý id=root)
+ index.js  (chú ý <app/>)
+ app.js (return trước app)
+ 
+ 
