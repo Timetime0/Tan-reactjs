@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tan-reactjs/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Tan-reactjs/static/js/main.fec1c523.chunk.js",
+    "main.js.map": "/Tan-reactjs/static/js/main.fec1c523.chunk.js.map",
+    "runtime-main.js": "/Tan-reactjs/static/js/runtime-main.b42c9bd1.js",
+    "runtime-main.js.map": "/Tan-reactjs/static/js/runtime-main.b42c9bd1.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Tan-reactjs/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.34108136.chunk.js": "/Tan-reactjs/static/js/2.34108136.chunk.js",
+    "static/js/2.34108136.chunk.js.map": "/Tan-reactjs/static/js/2.34108136.chunk.js.map",
+    "static/js/3.b1d47882.chunk.js": "/Tan-reactjs/static/js/3.b1d47882.chunk.js",
+    "static/js/3.b1d47882.chunk.js.map": "/Tan-reactjs/static/js/3.b1d47882.chunk.js.map",
+    "index.html": "/Tan-reactjs/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Tan-reactjs/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Tan-reactjs/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.34108136.chunk.js.LICENSE.txt": "/Tan-reactjs/static/js/2.34108136.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b42c9bd1.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.34108136.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.fec1c523.chunk.js"
+  ]
+}
