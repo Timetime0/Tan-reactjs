@@ -1,0 +1,13 @@
+import React, { Component } from 'react'
+
+export class Footer extends Component {
+    render() {
+        return (
+            <div class="footer" style={{backgroundColor: 'green', textAlign: 'center', padding: '15px 0', color: 'white'}}>
+            Copyright by CyberSoft
+          </div>
+        )
+    }
+}
+
+export default Footer
