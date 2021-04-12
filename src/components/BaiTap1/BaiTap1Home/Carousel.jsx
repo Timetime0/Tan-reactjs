@@ -12,16 +12,15 @@ export class Carousel extends Component {
           <li
             data-target="#carouselExampleIndicators"
             data-slide-to={0}
-            className
           />
           <li
             data-target="#carouselExampleIndicators"
             data-slide-to={1}
-            className
           />
           <li
             data-target="#carouselExampleIndicators"
             data-slide-to={2}
+
             className="active"
           />
         </ol>

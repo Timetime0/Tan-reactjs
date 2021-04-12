@@ -1,12 +1,29 @@
-1.  cài đặt project 
-npx create-react-app ten-app
+1/ cài đặt project :
+  npx create-react-app ten-app
+  
+2/ chạy project :
+  npm run start
 
-2. chạy
-npm start
+3/ flow code của ReactJS
+     index.html ( chú ý id="rooot" )
+  => index.js ( chú ý <App /> )
+  => App.js ( chú ý return của function App )
 
-3. flow chạy của react
- index.html (chú ý id=root)
- index.js  (chú ý <app/>)
- app.js (return trước app)
- 
- 
+4/ ReactJS không đọc được html , mà chỉ đọc được JSX
+
+5/ JSX giúp cho chúng ta viết html và js vào một file duy nhất
+
+6/ lợi ích và tiêu chí để chia component :
+    - tái sử dụng lại ( ưu tiên )
+    - dể quản lý và mở rộng ứng dụng
+
+7/ có 2 loại component :
+  - dạng class
+  - dạng function
+
+8/ state và setState là để render lại giao diện
+
+9. hiển thị mảng lên giao diện dùng map
+
+10. props: có thể truyền thông qua thẻ khuyết và thẻ đóng mở đầy đủ
+=> div con nhận props bằng this.props.children

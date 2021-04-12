@@ -5,7 +5,7 @@ export default class Header extends Component {
         return (
             <nav className="navbar navbar-expand-md navbar-dark bg-dark">
             <div className="container-fluid">
-              <a href="#" className="navbar-brand">
+              <a href="/" className="navbar-brand">
                 CyberSoft
               </a>
               <button
@@ -18,30 +18,30 @@ export default class Header extends Component {
               <div className="collapse navbar-collapse" id="myMenu">
                 <ul className="navbar-nav ml-auto">
                   <li className="nav-item">
-                    <a href="#" className="nav-link active">
+                    <a href="/" className="nav-link active">
                       Home
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a href="#" className="nav-link">
+                    <a href="/" className="nav-link">
                       News
                     </a>
                   </li>
                   <li className="nav-item dropdown">
-                    <a href="#" className="nav-link" data-toggle="dropdown">
+                    <a href="/" className="nav-link" data-toggle="dropdown">
                       Products
                     </a>
                     <div className="dropdown-menu">
-                      <a href="#" className="dropdown-item">
+                      <a href="/" className="dropdown-item">
                         Smarphone
                       </a>
-                      <a href="#" className="dropdown-item">
+                      <a href="/" className="dropdown-item">
                         Laptop
                       </a>
                     </div>
                   </li>
                   <li className="nav-item">
-                    <a href="#" className="nav-link">
+                    <a href="/" className="nav-link">
                       Forum
                     </a>
                   </li>

@@ -3,12 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+//setup bootstrap
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../node_modules/bootstrap'
 import '../node_modules/jquery/dist/jquery.slim';
 import '../node_modules/popper.js';
-//setup bootstrap
 
 ReactDOM.render(
   // chế độ quản lý code nghiêm nặt

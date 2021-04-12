@@ -1,13 +1,17 @@
 import "./App.css";
-
-import BaiTap1 from "./components/BaiTap1/BaiTap1";
+import BaiTap1 from "./components/BaiTap1/DivComponent/BaiTap1";
 import BaiTap1Home from "./components/BaiTap1/BaiTap1Home/BaiTap1Home";
+import ShowRoomCard from "./components/ShowRoomcCar.jsx/ShowRoomCard";
+import Parent from "./components/props/Parent";
+
 
 function App() {
   return (
     <div>
-      {/* <BaiTap1/> */}
+      <BaiTap1/>
       <BaiTap1Home/>
+      <ShowRoomCard/>
+      <Parent/>
     </div>
   );
 }

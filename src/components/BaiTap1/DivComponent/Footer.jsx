@@ -13,7 +13,7 @@ export default class Footer extends Component {
                   <img
                     src="./img/promotion_1.png"
                     style={{ maxWidth: "100%" }}
-                  />
+                    alt='true'                  />
                 </div>
               </div>
               <div className="col-xs-12 col-sm-12 col-md-4">
@@ -21,6 +21,7 @@ export default class Footer extends Component {
                   <img
                     src="./img/promotion_2.png"
                     style={{ maxWidth: "100%" }}
+                    alt='true'
                   />
                 </div>
               </div>
@@ -29,6 +30,7 @@ export default class Footer extends Component {
                   <img
                     src="./img/promotion_3.jpg"
                     style={{ maxWidth: "100%" }}
+                    alt='true'
                   />
                 </div>
               </div>
